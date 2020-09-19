@@ -1,1 +1,1 @@
-his directory contains all files for shell basics
+This directory contains files for shell basic project
