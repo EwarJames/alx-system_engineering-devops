@@ -1,1 +1,0 @@
-This directory contains files for the project: shell, i/o redirections and filters
