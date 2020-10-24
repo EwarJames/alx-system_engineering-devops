@@ -1,0 +1,1 @@
+This directory contains files for C - Variadic functions project
