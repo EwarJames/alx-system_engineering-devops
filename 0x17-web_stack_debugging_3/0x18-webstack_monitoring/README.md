@@ -1,1 +1,0 @@
-This directory contains files for the project 0x18-webstack_monitoring
