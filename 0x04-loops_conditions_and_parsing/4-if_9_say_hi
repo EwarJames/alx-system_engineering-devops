@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# If nine say Hi
+# Display Hi at nineth place
 
 i=0
 
