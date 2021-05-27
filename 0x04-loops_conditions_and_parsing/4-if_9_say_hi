@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Display Hi at nineth place
+# Display Hi at nineth place.
 
 i=0
 
